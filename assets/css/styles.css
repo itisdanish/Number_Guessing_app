@@ -1,0 +1,93 @@
+.main-content {
+  background-color: #e6e6ff;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.btn.btn-primary.space {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.body {
+  background: linear-gradient(to right,#ff6a00,#ee0979);
+}
+
+.h2, h2 {
+  color: rgb(0,0,0);
+}
+
+.text-justifyy {
+  text-align: justify;
+  font-size: 15px;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+}
+
+.mr-5, .mx-5 {
+  margin-bottom: 250px;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #bd0760;
+  border-color: #b1075a;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgba(241,46,141,.5);
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #ee0979;
+  border-color: #ee0979;
+  border-radius: 5rem;
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: .9rem;
+  font-weight: 700;
+  letter-spacing: .1rem;
+}
+
+.ch3 {
+  font-family: Catamaran, sans-serif;
+  font-weight: 800!important;
+  font-size: 1.4em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  font-family: 'Catamaran';
+}
+
+.message {
+  color: black;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.score {
+  color: black;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.numb {
+  width: 50px;
+  border: 1px solid purple;
+  font-size: 30px;
+  color: black;
+  border-radius: 15px;
+  margin: 5px;
+}
+
+.h1, h1 {
+  color: white;
+}
+
